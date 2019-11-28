@@ -1,0 +1,21 @@
+﻿  tema2POO.cpp
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(165,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(174,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(183,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(292,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(298,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(304,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(315,60): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(324,41): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(330,41): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(375,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(395,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(427,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(470,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(477,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(484,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(500,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(500,20): warning C4018: C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(179) : warning C4715: 'availableapts': not all control paths return a value
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(500,20): warning C4018: C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(170) : warning C4715: 'availabledbl': not all control paths return a value
+C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(500,20): warning C4018: C:\Users\Matei\source\repos\tema2POO\tema2POO\tema2POO.cpp(190) : warning C4715: 'availableConf': not all control paths return a value
+  tema2POO.vcxproj -> C:\Users\Matei\source\repos\tema2POO\Debug\tema2POO.exe
